@@ -1,0 +1,17 @@
+# Machine Learning artifacts
+checkpoints/
+pflow_checkpoints/
+lightning_logs/
+outputs/
+pflow_outputs/
+
+# Data and Tensors
+*.pt
+*.ckpt
+*.zip
+data/
+
+# Python clutter
+__pycache__/
+.env
+venv/

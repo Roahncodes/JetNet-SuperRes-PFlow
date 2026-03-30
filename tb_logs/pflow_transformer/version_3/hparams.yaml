@@ -1,0 +1,6 @@
+hidden_dim: 256
+input_dim: 3
+lr: 0.0005
+max_particles: 30
+num_heads: 8
+num_layers: 6
